@@ -17,3 +17,14 @@ font-family: #ffffff;
 
 
 }
+
+.header--secondary{
+    font-weight: 300;
+    font-size: 42px;
+    font-family: #ffffff;
+}
+.header--sub-header{
+   
+    font-size: 21px;
+    font-family: grey;
+}
